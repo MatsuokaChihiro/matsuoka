@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matsuoka114514
+- 👋 Hi, I’m @matsuoka
 - 👀 I’m interested in ...スマッシュブラザーズ、オルクスオンライン
 - 🌱 I’m currently learning ...プログラミング
 - 💞️ I’m looking to collaborate on ...
